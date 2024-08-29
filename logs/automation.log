@@ -76,3 +76,14 @@
 22:49:29.079 [main] DEBUG test_user.testUser - Updated User Payload: payload.api.User@6a15b73
 22:49:29.248 [main] INFO  test_user.testUser - ************* Delete User Test Executed **********
 22:49:29.248 [main] DEBUG test_user.testUser - Response Status Code: 200
+23:05:21.664 [main] INFO  test_user.testUser - ************* Setup Data Completed **********
+23:05:21.668 [main] DEBUG test_user.testUser - Generated User Payload: payload.api.User@2693c618
+23:05:24.710 [main] INFO  test_user.testUser - ************* Create User Test Executed **********
+23:05:24.710 [main] DEBUG test_user.testUser - Response Status Code: 200
+23:05:24.921 [main] INFO  test_user.testUser - ************* Get User Test Executed **********
+23:05:24.922 [main] DEBUG test_user.testUser - Response Status Code: 200
+23:05:25.290 [main] INFO  test_user.testUser - ************* Update User Test Executed **********
+23:05:25.291 [main] DEBUG test_user.testUser - Response Status Code: 200
+23:05:25.291 [main] DEBUG test_user.testUser - Updated User Payload: payload.api.User@2693c618
+23:05:25.479 [main] INFO  test_user.testUser - ************* Delete User Test Executed **********
+23:05:25.479 [main] DEBUG test_user.testUser - Response Status Code: 200
